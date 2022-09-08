@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 <employee>
 	<name>Sirisha</name>
 	<empid>2164384</empid>
 </employee>
+=======
+<product>
+	<name>Laptop</name>
+	<price>45000</price>
+</product>
+>>>>>>> br1
